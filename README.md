@@ -37,4 +37,4 @@ I recommend you to see the pendulm_sim_plots.ipynb file first to see the whole a
 
 I've also uploaded a screen shot of the simulation video. 
 
-Once you run pendulum_sim_video.py you will have the full video of how the motion of pendulum over time.
+Once you run pendulum_sim_video.py, you will have the full video of how the motion of pendulum over time.
