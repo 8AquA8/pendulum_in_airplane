@@ -21,6 +21,10 @@ f) Eventually the pendulum stops due to the air drag and frictions.
 
 
 
+
+
+
+
 I recommend you to see the pendulm_sim_plots.ipynb file first to see the whole algorithm flow of the simulation.
 
 I've also uploaded a screen shot of the simulation video. 
