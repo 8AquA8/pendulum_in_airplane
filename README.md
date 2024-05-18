@@ -3,7 +3,7 @@
 Lets imagine a box with a pendulum is hung to the ceiling of the airplane room.
 A pivot of the box adjusts the orientation of the box relative to the airplane direction so that the angular momentum of the box-plane system is conserved.
 A pendulum is placed such that one end is fixed and the other end has a ball of mass M with massless rigid rod.
-The airplane can change its manueuver to create different values of gravity, for example, near 0G.
+The airplane can change its maneuver to create different values of gravity, for example, near 0G.
 
 
 
