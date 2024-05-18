@@ -7,10 +7,15 @@ The airplane can change its manueuver to create different values of gravity, for
 Let's simulate the following situation by solving the equation of motion via Runge-Kutta method.
 
 a) The metal pendulum is initially at rest.
+
 b) Apply periodic external force to move the pendulum.
+
 c) The mass of the pendulum reaches 60 degree relative to its equilibrium position.
+
 d) You remove the periodic external force and the airplane lifts off.
+
 e) The hyper gravity due to airplane movement is shown in ipynb file.
+
 f) Eventually the pendulum stops due to the air drag and frictions.
 
 
