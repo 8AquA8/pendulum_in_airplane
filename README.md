@@ -20,4 +20,5 @@ e) The hyper gravity due to airplane movement is shown in ipynb file.
 f) Eventually the pendulum stops due to the air drag and frictions.
 
 
+I recommend to see the pendulm_sim_plots.ipynb file first to see the whole algorithm flow of the simulation.
 
