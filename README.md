@@ -21,7 +21,7 @@ f) Eventually the pendulum stops due to the air drag and frictions.
 
 
 
-
+//
 
 
 
