@@ -8,7 +8,7 @@ The airplane can change its maneuver to create different values of gravity, for 
 
 
 
-//
+##
 
 
 
@@ -29,7 +29,7 @@ f) Eventually the pendulum stops due to the air drag and frictions.
 
 
 
-//
+##
 
 
 
