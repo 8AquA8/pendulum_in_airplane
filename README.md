@@ -1,4 +1,5 @@
 # Pendulum in airplane
+This is a simulation of how pendulum motions in the following setup. I have solved the equation of motions via 4th order Runge-Kutta method.
 
 ## Simulation description 
 
